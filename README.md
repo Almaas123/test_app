@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-* ruby developer
+* ruby developer is Almaas Nazneen
